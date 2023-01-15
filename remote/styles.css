@@ -1,0 +1,51 @@
+body {
+    padding-top: 50px;
+    -webkit-tap-highlight-color: transparent;
+    margin: 20px;
+}
+
+sub {
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 5px;
+}
+
+h1 {
+    font-weight: black;
+    margin-bottom: 50px;
+}
+
+.jumbotron {
+    margin-top: 20px;
+    font-size: 200px;
+}
+
+.btn-reporting,
+.btn-paused {
+    display: none;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+.last-seen {
+    max-width: 400px;
+}
+
+.emoji {
+    border: 3px solid transparent;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    max-width: 400px;
+}
+
+.img-container img {
+    max-width: 100%;
+}
