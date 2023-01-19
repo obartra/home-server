@@ -1,2 +1,10 @@
 node_modules
 .env
+server/dist
+yarn-error.log
+.DS_Store
+static/*
+dist
+signal-cli-*
+server/src/db.json
+server/server.key
