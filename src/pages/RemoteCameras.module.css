@@ -1,0 +1,8 @@
+.lastImages {
+  display: flex;
+}
+
+.lastImages img {
+  margin: 4px;
+  align-self: center;
+}
